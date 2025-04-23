@@ -35,7 +35,7 @@ Need help? Have feedback or suggestions?
 
 → Open an issue here: [GitHub Issues](https://github.com/Prenda00/proxy-extension/issues)
 
-Or contact: `soporte@tudominio.com` *(replace with your email)*
+Or contact: `christianneg72@gmail.com`
 
 ---
 
